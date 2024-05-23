@@ -17,7 +17,7 @@
   <properties>
     <version.wildfly>25.0.1.Final</version.wildfly>
     <version.resteasy>6.2.2.Final</version.resteasy>
-    <version.smallrye.config>3.1.1</version.smallrye.config>
+    <version.smallrye.config>3.8.2</version.smallrye.config>
     <version.smallrye.testing>2.3.0</version.smallrye.testing>
     <version.galleon>6.0.0.Final</version.galleon>
     <version.wildfly.plugin>5.0.0.Final</version.wildfly.plugin>
